@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://benoyv.github.com/bvhome/sitemap.xml 
